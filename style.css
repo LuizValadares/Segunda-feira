@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+.taro{
+    text-align: center;
+    margin: 10%;
+    color: white;
+    font-family: "Libre Baskerville", serif;;
+}
+.rato{
+    border: 5px solid white;
+    width: 100%;
+}
